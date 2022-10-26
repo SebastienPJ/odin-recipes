@@ -1,0 +1,13 @@
+h1 {
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.recipe-list {
+  text-align: center;
+  list-style: none;
+}
+
+img {
+  width: 300px;
+}
