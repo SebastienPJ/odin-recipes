@@ -15,3 +15,7 @@ img {
 .title-image{
   text-align: center;
 }
+
+ol li {
+  margin: 10px;
+}
